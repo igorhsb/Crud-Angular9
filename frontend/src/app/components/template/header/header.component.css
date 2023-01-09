@@ -17,3 +17,7 @@
 .header .title-group {
     padding-left: 25px;
 }
+
+.header .title-group a {
+    color: white;
+}
