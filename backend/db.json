@@ -1,0 +1,19 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "Caneta azul",
+            "price" : 5.60
+        },
+        {
+            "id" : 2,
+            "name" : "Caneta rosa",
+            "price" : 15.60
+        },
+        {
+            "id" : 3,
+            "name" : "PS5",
+            "price" : 4500.00
+        }
+    ]
+}
